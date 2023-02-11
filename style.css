@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+.container-label {
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+  height: 200px;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-label label {
+  font-size: 10px;
+  color: red;
+}
